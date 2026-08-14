@@ -184,3 +184,5 @@ Here is the exact pin configuration used to wire the JARVIS satellite to an **ES
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more details.
 
 Built with ❤️ using ESP32-S3, FastAPI, Whisper, Qwen, and Piper TTS.
+#   E - C o m m e r c e - I n t e l l i g e n c e - D a s h b o a r d  
+ 
